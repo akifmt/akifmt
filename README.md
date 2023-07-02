@@ -16,10 +16,10 @@
   - <img src="https://img.shields.io/badge/akifmt-D14836?logo=gmail&logoColor=white">
   - for Pretty Good Privacy(OpenPGP) [![KEY](https://img.shields.io/badge/KEY-%2307405e)](https://github.com/akifmt/akifmt/raw/main/cf5d9741a36246d6ab61df317a5c2c42.zip)
 
- 
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makiftokatlioglu) 
+[![Personal](https://img.shields.io/badge/Personal_Website-blueviolet.svg)](https://akifmt.github.io/) 
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
